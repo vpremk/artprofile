@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Saffron & Silk</title>
+    <meta
+      name="description"
+      content="Saffron & Silk — a minimal art portfolio rooted in storytelling, texture, and expressive color."
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Manrope:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="page-shell">
+      <header class="topbar">
+        <div class="brand-wrap">
+          <div class="brand-mark">S</div>
+          <div class="brand-text">
+            <span class="brand-name">Saffron & Silk</span>
+            <span class="brand-subtitle">stories in texture</span>
+          </div>
+        </div>
+
+        <nav class="main-nav" aria-label="Main navigation">
+          <a href="#about">About</a>
+          <a href="#collections">Collections</a>
+          <a href="#contact">Contact</a>
+        </nav>
+      </header>
+
+      <main>
+        <section class="hero">
+          <div class="hero-art">
+            <img src="data/Oil/Main.jpg" alt="Featured oil painting" />
+          </div>
+
+          <div class="hero-copy">
+            <p class="eyebrow">Minimal art portfolio</p>
+            <h1>Rooted in storytelling and texture.</h1>
+            <p class="lede">
+              Saffron & Silk gathers emotion, memory, and color into a visual language
+              shaped by folk rhythm, modern expression, and the warmth of handcrafted light.
+            </p>
+          </div>
+        </section>
+
+        <section class="stats" aria-label="Artist highlights">
+          <div>
+            <strong>3</strong>
+            <span>collections</span>
+          </div>
+          <div>
+            <strong>Expression</strong>
+            <span>in color</span>
+          </div>
+          <div>
+            <strong>Folk</strong>
+            <span>in narrative</span>
+          </div>
+          <div>
+            <strong>Murals</strong>
+            <span>in scale</span>
+          </div>
+        </section>
+
+        <section id="about" class="about">
+          <div class="section-heading">
+            <p class="eyebrow">About</p>
+            <h2>Art shaped by memory, ritual, and feeling.</h2>
+          </div>
+
+          <div class="about-layout">
+            <div class="about-card">
+              <img src="data/Oil/ganesha.jpg" alt="Ganesha oil painting" />
+            </div>
+            <div class="about-text">
+              <p>
+                Saffron & Silk is a contemporary art practice exploring the quiet drama of
+                memory, handcraft, and color. Each work carries the rhythm of Indian folk
+                traditions while speaking in a language that feels modern, intimate, and alive.
+              </p>
+              <p>
+                From expressive oils to narrative murals, the practice moves between raw
+                emotion and crafted detail — where texture becomes story and color becomes mood.
+              </p>
+            </div>
+          </div>
+        </section>
+
+        <section id="collections" class="collections">
+          <div class="section-heading split">
+            <div>
+              <p class="eyebrow">Collections</p>
+              <h2>Selected bodies of work.</h2>
+            </div>
+            <div class="filter-bar" aria-label="Collection filters">
+              <button class="filter-button active" data-filter="all">All</button>
+              <button class="filter-button" data-filter="oil">Expressionist Oils</button>
+              <button class="filter-button" data-filter="folk">Folk Narratives</button>
+              <button class="filter-button" data-filter="murals">Murals</button>
+            </div>
+          </div>
+
+          <div id="gallery" class="gallery" aria-live="polite"></div>
+        </section>
+
+        <section id="contact" class="contact">
+          <div class="contact-card">
+            <p class="eyebrow">Commission & inquiries</p>
+            <h2>For bespoke works and walls that hold a story.</h2>
+            <a href="mailto:artsyvandana@gmail.com">artsyvandana@gmail.com</a>
+          </div>
+        </section>
+      </main>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>

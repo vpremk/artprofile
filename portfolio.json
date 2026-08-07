@@ -1,0 +1,145 @@
+[
+  {
+    "id": "oil-main",
+    "name": "The Quiet Horizon",
+    "category": "oil",
+    "categoryLabel": "Expressionist Oils",
+    "description": "A contemplative expressionist study where silence, earth tones, and evening light gather into a deeply personal horizon.",
+    "dimensions": {
+      "width": 12,
+      "height": 16
+    },
+    "size": "12 × 16 in",
+    "src": "data/Oil/Main.jpg"
+  },
+  {
+    "id": "oil-alaska1",
+    "name": "Northern Silence",
+    "category": "oil",
+    "categoryLabel": "Expressionist Oils",
+    "description": "A raw, atmospheric landscape shaped by cold air, emotional depth, and the stillness of open space.",
+    "dimensions": {
+      "width": 24,
+      "height": 36
+    },
+    "size": "24 × 36 in",
+    "src": "data/Oil/alaska1.jpg"
+  },
+  {
+    "id": "oil-buddha",
+    "name": "Inner Light",
+    "category": "oil",
+    "categoryLabel": "Expressionist Oils",
+    "description": "A meditative portrait rendered in layered pigment, where calm expression and spiritual stillness lead the composition.",
+    "dimensions": {
+      "width": 12,
+      "height": 16
+    },
+    "size": "12 × 16 in",
+    "src": "data/Oil/buddha.JPG"
+  },
+  {
+    "id": "oil-moon",
+    "name": "Moonlit Thread",
+    "category": "oil",
+    "categoryLabel": "Expressionist Oils",
+    "description": "An intimate night study where moonlight, motion, and emotional rhythm thread together in a softly luminous field.",
+    "dimensions": {
+      "width": 24,
+      "height": 36
+    },
+    "size": "24 × 36 in",
+    "src": "data/Oil/moon.jpg"
+  },
+  {
+    "id": "oil-starry",
+    "name": "Star Memory",
+    "category": "oil",
+    "categoryLabel": "Expressionist Oils",
+    "description": "A poetic nocturne blending memory, texture, and color to evoke wonder, longing, and quiet reverie.",
+    "dimensions": {
+      "width": 12,
+      "height": 16
+    },
+    "size": "12 × 16 in",
+    "src": "data/Oil/starry.jpg"
+  },
+  {
+    "id": "folk-fish",
+    "name": "Tide of Memory",
+    "category": "folk",
+    "categoryLabel": "Folk Narratives",
+    "description": "A folk-inspired Madhubani art that turns symbolic motion into a story of continuity, rhythm, and living tradition.",
+    "dimensions": {
+      "width": 18,
+      "height": 24
+    },
+    "size": "18 × 24 in",
+    "src": "data/Folk/fish.jpg"
+  },
+  {
+    "id": "folk-peacock",
+    "name": "Peacock in Bloom",
+    "category": "folk",
+    "categoryLabel": "Folk Narratives",
+    "description": "Inspired by the Madhubani tradition, this work celebrates color, abundance, and mythic grace through intricate ornament.",
+    "dimensions": {
+      "width": 18,
+      "height": 24
+    },
+    "size": "18 × 24 in",
+    "src": "data/Folk/peacock.jpg"
+  },
+  {
+    "id": "mural-hallway",
+    "name": "Passage of Light",
+    "category": "murals",
+    "categoryLabel": "Murals",
+    "description": "A large-scale mural study exploring movement through architectural space, warmth, and the emotional quality of light.",
+    "dimensions": {
+      "width": 16,
+      "height": 20
+    },
+    "size": "16 sq ft",
+    "src": "data/Murals/hallway.jpg"
+  },
+  {
+    "id": "mural-roof",
+    "name": "Under the Saffron Sky",
+    "category": "murals",
+    "categoryLabel": "Murals",
+    "description": "A mural concept rooted in story, shelter, and everyday rituals, translated into color-rich architectural language.",
+    "dimensions": {
+      "width": 16,
+      "height": 24
+    },
+    "size": "24 sq ft",
+    "src": "data/Murals/roof.jpg"
+  },
+  {
+    "id": "mural-sun",
+    "name": "Sunline",
+    "category": "murals",
+    "categoryLabel": "Murals",
+    "description": "A radiant mural composition built from warmth, optimism, and movement, designed to transform a wall into a living story.",
+    "dimensions": {
+      "width": 20,
+      "height": 30
+    },
+    "size": "30 sq ft",
+    "src": "data/Murals/sun.jpg"
+  },
+  {
+    "id": "oil-ganesha",
+    "name": "Divine Grace",
+    "category": "oil",
+    "categoryLabel": "Expressionist Oils",
+    "description": "A devotional expressionist work celebrating sacred rhythm, inner calm, and the luminous energy of divine form.",
+    "dimensions": {
+      "width": 12,
+      "height": 16
+    },
+    "size": "12 × 16 in",
+    "src": "data/Oil/ganesha.jpg"
+  }
+]
